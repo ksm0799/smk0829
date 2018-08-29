@@ -12,7 +12,12 @@
 2
 3
 4
+
 5 
 66666666666666
+=======
+5
+다시 수정~~
+>>>>>>> branch 'master' of https://github.com/ksm0799/smk0829.git
 </body>
 </html>
